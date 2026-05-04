@@ -1,2 +1,2 @@
 # JAVA
-Java Practice
+Java Basic Practice & Mini-Project
